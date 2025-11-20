@@ -1,0 +1,15 @@
+tickets.ssv-h.de/
+│
+├── public/
+│   ├── images/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+│
+├── server/
+│   ├── server.js
+│   └── products.js
+│
+├── .env
+├── package.json
+└── README.md
